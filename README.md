@@ -2,6 +2,7 @@
 
 # Who are we
 Lylla Younes, data journalist at [ProPublica](https://propublica.org)
+
 Amr Elerqi, founder of [Infotimes](https://infotimes.org/)
 
 # Workshop links
