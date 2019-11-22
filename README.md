@@ -8,7 +8,7 @@ Amr Elerqi, founder of [Infotimes](https://infotimes.org/)
 # Workshop links
 SIPRI Data: https://www.sipri.org/databases/armsindustry
 
-Google Sheet: https://drive.google.com/file/d/1qma_WNJLIkSSsFGTEROz1leKqfObyhYN/view?usp=sharing
+Google Sheet: https://docs.google.com/spreadsheets/d/16QpbWr-yDRalDZaFqxF6ONVZDE31qEoF-qzMwOtLPx8/edit?usp=sharing
 
 ## Resources
 Data Journalism Pipeline (English) https://infotimes.org/data-journalism-pipeline/
